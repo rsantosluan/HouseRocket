@@ -1,4 +1,4 @@
-mkdir -p ~/.streamlit/
+mkdir -p ~/.streaml
 
 echo "\
 [general]\n\

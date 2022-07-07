@@ -16,7 +16,7 @@ A quantidade elevada de imóveis contidas no portifólio, atrapalha muito na obt
 ## Proposta de Solução:
 Por meio de análises estatísticas serão elencados possíveis bons negócios com base nos atributos disponibilizados no portfólio fornecido pelo CEO. Elencando casas que foram anunciadas com preço abaixo de 30% do valor médio por região, estejam em ótimo estado de conservação além de analisar o período do ano em que cada região apresenta maior média de preços para definição do momento ideal para revenda do imóvel. Para calcular o valor sugerido de venda, colocaremos uma margem de mais 7% sobre o valor mediano dos imóveis da região.
 
-Link da solução: https://git.heroku.com/hr-opportunities.git
+Link da solução: https://hr-opportunities.herokuapp.com/
 
 ## Ferramentas utilizadas:
 

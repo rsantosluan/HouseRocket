@@ -274,7 +274,7 @@ c1,c2,c3 = st.columns( [1.3,3,15] )
 c1.caption( 'Contatos: ' )
 c2.caption( 
     '[Linkedin](https://www.linkedin.com/in/luan-rs/) | | \
-    [GitHub](https://github.com/rsantosluan) '
+    [GitHub](https://github.com/rsantosluan/HouseRocket) '
  )
 
 
