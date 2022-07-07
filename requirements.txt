@@ -27,7 +27,7 @@ folium==0.12.1.post1
 geopandas==0.11.0
 gitdb==4.0.9
 GitPython==3.1.27
-heroku==0.1.4
+heroku==14.19.0
 idna==3.3
 importlib-metadata==4.12.0
 ipykernel==6.15.0
